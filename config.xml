@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap="http://phonegap.com/ns/1.0"
  id = "com.phonegap.app2"
@@ -33,6 +34,5 @@ Gabriela Rosales Morales
  <!-- Third part plugins -->
  
  <!-- Colocar icono app -->
-<icon src="imagenes/persona_rosa.png" />
-
+<icon src="res/android/mdpi2.png"/>
 </widget>
